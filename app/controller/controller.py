@@ -1,4 +1,4 @@
-from lib_calc import operacoes
+from lib_calc_manu import operacoes
 
 def add(a: float, b: float) -> float:
     return operacoes.add(a, b)
