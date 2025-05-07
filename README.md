@@ -27,8 +27,8 @@ Esta é uma API simples de calculadora construída usando **FastAPI**. A API for
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/your-username/calculadora-fastapi.git
-   cd calculadora-fastapi
+   git clone https://github.com/manuLemos/calculadoraAPI-lib.git
+   cd calculadoraAPI-lib
    ```
 
 2. Crie um ambiente virtual e ative-o:
@@ -191,3 +191,9 @@ Esta é uma API simples de calculadora construída usando **FastAPI**. A API for
 
 - Construído com [FastAPI](https://fastapi.tiangolo.com/)
 - Inspirado na simplicidade do Python para construir APIs.
+
+Você pode instalar a biblioteca via pip:
+
+  ```bash
+  pip install calculadora-manuesy-api
+  ```
